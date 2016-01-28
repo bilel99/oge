@@ -1,0 +1,10 @@
+nom,prenom,telephone,email,banner,date_naissance,adresse,ville,code postal,motorise,num ss,provenance,langues,cursus,annee,details,upload,role,status,archive,id_cdp
+444654,465465,01,test@equinoa.com,test,1999-03-03 00:00:00,test,test,75000,Oui,111562154586,test-test-test,langues2,BBA 1,2011,test,,,1,1,2
+Bekkouche,Bilel,1234567890,b.bekkouche@equinoa.com,123,0000-00-00 00:00:00,123 rue du ttooto,toto,12345,Oui,12345678901,111-ile de s-BBB,langues1,BBA 1,2001,azerty,,tresorier,1,1,2
+billel,billlel,1234567890,b.bekkouche@equinoa.com,1234,1947-03-02 00:00:00,qsdsqdqsd,Pa,12345,Permis sans voiture,12345678901,111-bilel-bilel,langues2,BBA 2,2009,azerty,,,1,,2
+SQDQSD2445,sqdqsd2445,1234567890,bilel.bekkouche@hotmail.fr,sqdqsd,1992-02-02 00:00:00,9 rue bilel,Pa,12345,Permis sans voiture,12345678901,111-bilel-bilel,langues2,BBA 1,2010,,,,1,,2
+ADMINNDF,qsdqsd,1234567890,admin@equinoa.fr,AAAA,1992-03-02 00:00:00,9 rue bilel,Pa,12345,Oui,12345678901,bilel-toto-toto,langues2,BBA 2,2009,,,,1,,0
+ADMINN,qsdqsd,1234567890,admin@equinoa.fr,AAAA,1991-02-03 00:00:00,9 rue qsdsqdqsd,Pa,12345,Permis sans voiture,12345678901,111-bilel-bilel,langues2,BBA 1,2009,,,,1,2,0
+BILEL,Bekkouche,0651273839,admin@equinoa.fr,AAAA,1991-03-02 00:00:00,9 rue bilel,Barcelone,12345,Oui,12345678901,111-bilel-bilel,langues2,BBA 2,2010,,,,1,,0
+LINA,Lina,1234567890,admin@equinoa.fr,Lina,1991-02-03 00:00:00,9 rue bilel,Barcelone,12345,Permis sans voiture,12345678901,bilel-bilel-bilel,langues3,BBA 2,2009,,,,1,,0
+ADMIN,qsdqsd,1234567890,bilel.bekkouche@hotmail.fr,AAAA,1990-01-02 00:00:00,9 rue bilel,Paris,12345,Oui,12345678901,111-bilel-bilel,langues3,BBA 1,2008,,,,1,,0

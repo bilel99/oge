@@ -1,0 +1,120 @@
+# UTF-8 encoding
+AddDefaultCharset UTF-8
+
+# No listing for directories
+<IfModule mod_autoindex.c>
+    Options -Indexes
+</IfModule>
+
+# Compression
+<IfModule mod_deflate.c>
+    AddOutputFilter INCLUDES;DEFLATE js
+    AddOutputFilter INCLUDES;DEFLATE css
+    AddOutputFilter INCLUDES;DEFLATE php
+    AddOutputFilter INCLUDES;DEFLATE html
+    AddOutputFilter INCLUDES;DEFLATE xml
+    AddOutputFilter INCLUDES;DEFLATE ico
+    AddOutputFilter INCLUDES;DEFLATE eot
+    AddOutputFilter INCLUDES;DEFLATE svg
+    AddOutputFilter INCLUDES;DEFLATE ttf
+    AddOutputFilter INCLUDES;DEFLATE vtt    
+</IfModule>
+
+# Stops a browser from trying to MIME-sniff
+<IfModule mod_headers.c>
+    Header always set X-Content-Type-Options "nosniff"
+</IfModule>
+
+# Avoid Clickjacking and enable XSS-protection for browsers
+<FilesMatch "\.(pl|php|cgi|spl)$">
+    <IfModule mod_headers.c>
+        Header set X-XSS-Protection "1; mode=block"
+    </IfModule>
+</FilesMatch>
+
+# Cache + ETags 1 Month
+<FilesMatch "\.(flv|wmv|mp3|doc|ppt|ico|swf|ogv|mp4|webm|svg|ttf|woff|eot|mov|avi|pdf|txt|wav)$">
+    <IfModule mod_headers.c>
+        Header unset Set-Cookie
+        Header set Cache-Control "max-age=2592000"
+        header set vary "Accept-Encoding"
+        header append vary "User-Agent"
+        header append Cache-Control "public"
+        header append Keep-Alive "timeout=5, max=100"
+        header append Connection "Keep-Alive"
+        FileETag None
+    </IfModule>
+</FilesMatch>
+
+# Cache + ETags 1 Week
+<FilesMatch "\.(gif|jpg|jpeg|png|js|css)$">
+    <IfModule mod_headers.c>
+        Header unset Set-Cookie
+        Header set Cache-Control "max-age=604800"
+        header set vary "Accept-Encoding"
+        header append vary "User-Agent"
+        header append Cache-Control "public"
+        header append Keep-Alive "timeout=5, max=100"
+        header append Connection "Keep-Alive"
+        FileETag None
+    </IfModule>
+</FilesMatch>
+
+# Cache + ETags 1 Hour
+<FilesMatch "\.(xml|xsl|html|htm|txt)$">
+    <IfModule mod_headers.c>
+        Header set Cache-Control "max-age=3600"
+        header set vary "Accept-Encoding"
+        header append vary "User-Agent"
+        header append Cache-Control "private"
+        FileETag None
+    </IfModule>
+</FilesMatch>
+
+# No cache for scripts
+<FilesMatch "\.(pl|php|cgi|spl)$">
+    <IfModule mod_headers.c>
+        Header unset Cache-Control
+        Header unset Expires
+        Header unset Last-Modified
+        Header unset Pragma
+        FileETag None
+        header set vary "Accept-Encoding"
+        header append vary "User-Agent"
+        header append Cache-Control "private"
+    </IfModule>
+</FilesMatch>
+
+# Rewrite engine
+<IfModule mod_rewrite.c>
+    Options +FollowSymlinks
+    RewriteEngine On
+</IfModule>
+
+# Block access to hidden files & directories
+<IfModule mod_rewrite.c>
+    RewriteCond %{SCRIPT_FILENAME} -d [OR]
+    RewriteCond %{SCRIPT_FILENAME} -f
+    RewriteRule "(^|/)\." - [F]
+</IfModule>
+
+# Forcing the good URL
+<IfModule mod_rewrite.c>
+    RewriteCond %{HTTP_HOST} !admin.oge.equinoa.net$
+    RewriteCond %{HTTP_HOST} !localhost$
+    RewriteRule /?(.*) http://admin.oge.equinoa.net/$1 [R=301,L]
+</IfModule>
+
+# RewriteBase & ENV
+<IfModule mod_rewrite.c>
+    # Dev
+    RewriteRule . - [E=REWRITEBASE:/oge.admin/,E=APPENV:dev]
+    # Demo
+    RewriteCond %{HTTP_HOST} ^admin.oge.equinoa.net$
+    RewriteRule . - [E=REWRITEBASE:/,E=APPENV:demo]
+</IfModule>
+
+# Redirect
+RewriteCond %{REQUEST_FILENAME} !-f 
+RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteRule . %{ENV:REWRITEBASE}index.php

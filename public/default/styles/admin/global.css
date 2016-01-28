@@ -1,0 +1,302 @@
+/* 
+    Document   : global
+    Created on : 27/03/2014, 11:57:44 AM
+    Author     : andres
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+
+/**************************
+ ****** Navigation ********
+/**************************/
+
+#general-nav {
+    width: 70%;
+    position: absolute;
+    padding: 0;
+    margin: 0 auto;
+    left: 20%;
+    z-index: 1;
+}
+
+/*#general-nav .odd-submenu {
+    background-color: white;
+}*/
+
+.nav {
+    min-height: 30px;
+}
+
+.nav li {
+    float: left;
+    background-color: #ededec;
+    width: 60px;
+}
+
+#general-nav .submenu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: none;
+}
+#general-nav ul.submenu.document
+{
+    margin-left: -30px !important;
+    z-index: 999;
+    word-wrap: break-word;
+}
+#general-nav ul.submenu.document >li {
+
+margin-left: -31px !important;
+width: 195px;
+margin-top: -5px !important;
+z-index: 10 !important;
+}
+ul.submenu.document>li>a {
+padding-left: 10px;
+padding-right: 10px;
+}
+#general-nav li:hover > .submenu {
+    display: block;
+    width: auto;
+}
+
+#general-nav li:hover > .submenu li {
+    float: none;
+    padding: 0;
+    margin: 0;
+}
+
+#general-nav li.current {
+    background-color: #b4b2b2;
+}
+
+#general-nav li.current ul li {
+    background-color: #b4b2b2;
+}
+
+/**************************
+ ********** login *********
+/**************************/
+
+#contener {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+}
+
+#logo_site {
+    margin: 150px auto 30px;
+}
+
+#contenu_login {
+    width: 430px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #595959;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#contenu_login h1 {
+    font-size: 18px;
+    line-height: 1;
+    margin: 0 0 15px;
+}
+
+table.login {
+    width: 400px;
+    margin: 0 auto;
+}
+
+table.login label {
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#contenu_login fieldset {
+    border: none;
+}
+
+table.login td {
+    text-align: right;
+    vertical-align: middle;
+    padding: 10px 10px;
+}
+
+/**************************
+ ****** add contact *******
+/**************************/
+#add-contact-button {
+    float: right;
+    margin: 0 auto;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    text-decoration: none;
+}
+.reset {
+    padding-right: 9px;
+}
+.reset .button-secondary {
+    background-color:#b4b2b2;
+    color: #000;
+}
+.label-comodin {
+    padding-left: 178px;    
+}
+.button-secondary:hover {
+    background-color: #D3D3D3;
+}
+.content-none {
+    border: none;
+}
+
+/*Probando tab*/
+.columna-form {
+    padding: 25px 45px 13px 10px;
+}
+.other1 {
+    float: left;
+}
+.other2 {
+    float: right;
+}
+.select-custom {
+    width : 356px;
+}
+.select-mult-custom {
+    width: 355px;
+}
+
+.button-secondary {
+    background-color: #b4b2b2;
+    color: #000;
+}
+
+#config-nav {
+    width: 100px;
+}
+
+/*User*/
+#button-users {
+    text-decoration: none;
+    padding: 4px 22px;
+}
+#file-wrapper {
+    width: 351px;
+}
+#uploadedfile {
+    border: 0;
+    padding-left: 1px;
+}
+/*View CDM*/
+.cf label{
+    float: left;
+    text-align: left;
+}
+.cf label+span {
+    float: right;
+    width: 169px;
+    margin-right: 80px;
+    text-align: left;
+}
+.evaluer {
+    float: right;
+    margin-top: 10px;
+    border: 0;
+    border-radius: 2px;
+    background-color: #b4b2b2;
+    color: #FFFFFF;
+    font-weight: bold;
+    padding: 4px 24px 19px 24px;
+}
+.column-left {
+    float: left;
+    width: 530px;
+    text-align: left;
+}
+.column-right {
+    float: right;
+}
+.zion-button {
+    background-color: #b4b2b2;        
+    border: 0;
+    color: #FFFFFF;
+    font-weight: bold;
+    border-radius: 3px;
+    padding: 4px 24px 19px 24px;
+}
+.column-left button {
+    float:right;
+    margin: 0px;
+}
+.synthese .column-left #namespan {
+    float:left;
+    margin-right: 154px;
+}
+.column-info {
+    clear: both;
+    position:relative;
+    width: 100%;
+    text-align: left;
+    padding: 12px;
+}
+.column-info > span {
+    margin-right: 290px;
+}
+.remi{
+    margin-top: -34px;
+}
+.remi2{
+    margin-top: 52px;
+}
+.alignInput{
+    margin-left: 94px;
+}
+.textlab {
+    text-align:center !important;
+}
+/*ColorBox tables*/
+table.poppup thead th {
+    width: 150px;
+    background-color: #a4170e;
+    color:#FFFFFF;
+}
+table.poppup tbody td {
+    padding-top: 5px;
+    text-align: center;
+}
+table.poppup tbody tr:nth-child(odd) {
+    background-color: #dbd9d9;
+}
+table.poppup tbody tr:nth-child(even) {
+    background-color: #f0f0f0;
+}
+
+.sepair{
+    margin: 5px auto 5px 10px !important;
+}
+.btn-etudes{
+    float: right ;
+    width: 29%; 
+    margin: 0px auto;
+    padding: 0 17px !important;
+}
+.intput-etudes{    
+    float: left;
+    width: 40%!important;
+    margin-right: 2px!important;
+}

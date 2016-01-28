@@ -1,0 +1,4 @@
+id_cdm,nom,prenom,telephone,email,banner,date_naissance,adresse,ville,code postal,motorise,num ss,provenance,langues,cursus,annee,details,upload,role,status,archive,id_cdp
+120,POLI,Liba,1234567890,p.p@gmail.com,Croix,2006-02-01 00:00:00,9 rue des blaca,Espagne,78945,Oui,12345678901,Peugeot-Barcelone-Catalagne,langues2,BBA 2,2009,,,,1,1,0
+121,CROFT,Lara,0645123659,c.l@gmail.com,Croftsoftware,1994-07-02 00:00:00,14 rue des limoge,Brezil,45123,Non,12345678561,non vehiculer-Rio-Rio,langues1,BBA 1,2012,,,,1,1,0
+122,SNAKE,Leboss,0541236965,sl@gmail.com,LeBossWebsite,2005-03-01 00:00:00,987 rue des placa,Lesagne,45236,Oui,145645678901,Ferrari-Lesagne-Lesagnes,langues3,Msc 1,2009,,,,1,1,0
