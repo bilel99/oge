@@ -83,10 +83,9 @@ class bootstrap extends Controller
         $this->loadJs('admin/jquery/jquery.json');
         $this->loadJs('admin/jquery/jquery-ui-1.10.4.custom.min');
                 
-                // JQUERY UI
-                
-                $this->loadJs('admin/jquery/jquery-migrate-1.2.1');
-                // FIN
+		// JQUERY UI
+		$this->loadJs('admin/jquery/jquery-migrate-1.2.1');
+		// FIN
                 
 		$this->loadJs('admin/freeow/jquery.freeow.min');
 		$this->loadJs('admin/colorbox/jquery.colorbox-min');
@@ -103,7 +102,7 @@ class bootstrap extends Controller
                 
                 
                 
-                $this->loadJs('admin/functions');
+		$this->loadJs('admin/functions');
 		
 		// Chargement des fichiers CSS
 		$this->loadCss('../scripts/admin/freeow/freeow');
@@ -111,22 +110,16 @@ class bootstrap extends Controller
 		$this->loadCss('../scripts/admin/treeview/jquery.treeview');
 		$this->loadCss('../scripts/admin/tablesorter/style');
 	    $this->loadCss('admin/jquery-ui-1.7.2.custom');
-              $this->loadCss('admin/main');
+        $this->loadCss('admin/main');
 		$this->loadCss('admin/style');
 		$this->loadCss('admin/global');
                 
-                
-                
-                
+
 		// SWEET ALERT
 		$this->loadJs('admin/jquery/sweetalert.min');
 		$this->loadCss('admin/sweetalert');
 		// FIN
-                
-                
-                
-                
-                
+
 		
 		// Recuperation du code Google Analytics
 		$this->settings->get('Google Analytics','type');

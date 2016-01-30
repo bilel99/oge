@@ -6,15 +6,15 @@
         Purpose of the stylesheet follows.
 */
 
-root { 
+
+
+root {
     display: block;
 }
-
 
 /**************************
  ****** Navigation ********
 /**************************/
-
 #general-nav {
     width: 70%;
     position: absolute;
@@ -27,9 +27,8 @@ root {
 /*#general-nav .odd-submenu {
     background-color: white;
 }*/
-
 .nav {
-    min-height: 30px;
+    min-height: 60px;
 }
 
 .nav li {
@@ -45,23 +44,26 @@ root {
     border: 0;
     display: none;
 }
-#general-nav ul.submenu.document
-{
+
+#general-nav ul.submenu.document {
     margin-left: -30px !important;
     z-index: 999;
     word-wrap: break-word;
 }
-#general-nav ul.submenu.document >li {
 
-margin-left: -31px !important;
-width: 195px;
-margin-top: -5px !important;
-z-index: 10 !important;
+#general-nav ul.submenu.document > li {
+
+    margin-left: -31px !important;
+    width: 195px;
+    margin-top: -5px !important;
+    z-index: 10 !important;
 }
-ul.submenu.document>li>a {
-padding-left: 10px;
-padding-right: 10px;
+
+ul.submenu.document > li > a {
+    padding-left: 10px;
+    padding-right: 10px;
 }
+
 #general-nav li:hover > .submenu {
     display: block;
     width: auto;
@@ -84,7 +86,6 @@ padding-right: 10px;
 /**************************
  ********** login *********
 /**************************/
-
 #contener {
     position: absolute;
     top: 0;
@@ -147,19 +148,24 @@ table.login td {
     padding-bottom: 3px;
     text-decoration: none;
 }
+
 .reset {
     padding-right: 9px;
 }
+
 .reset .button-secondary {
-    background-color:#b4b2b2;
+    background-color: #b4b2b2;
     color: #000;
 }
+
 .label-comodin {
-    padding-left: 178px;    
+    padding-left: 178px;
 }
+
 .button-secondary:hover {
     background-color: #D3D3D3;
 }
+
 .content-none {
     border: none;
 }
@@ -168,15 +174,19 @@ table.login td {
 .columna-form {
     padding: 25px 45px 13px 10px;
 }
+
 .other1 {
     float: left;
 }
+
 .other2 {
     float: right;
 }
+
 .select-custom {
-    width : 356px;
+    width: 356px;
 }
+
 .select-mult-custom {
     width: 355px;
 }
@@ -195,24 +205,29 @@ table.login td {
     text-decoration: none;
     padding: 4px 22px;
 }
+
 #file-wrapper {
     width: 351px;
 }
+
 #uploadedfile {
     border: 0;
     padding-left: 1px;
 }
+
 /*View CDM*/
-.cf label{
+.cf label {
     float: left;
     text-align: left;
 }
-.cf label+span {
+
+.cf label + span {
     float: right;
     width: 169px;
     margin-right: 80px;
     text-align: left;
 }
+
 .evaluer {
     float: right;
     margin-top: 10px;
@@ -223,80 +238,97 @@ table.login td {
     font-weight: bold;
     padding: 4px 24px 19px 24px;
 }
+
 .column-left {
     float: left;
     width: 530px;
     text-align: left;
 }
+
 .column-right {
     float: right;
 }
+
 .zion-button {
-    background-color: #b4b2b2;        
+    background-color: #b4b2b2;
     border: 0;
     color: #FFFFFF;
     font-weight: bold;
     border-radius: 3px;
     padding: 4px 24px 19px 24px;
 }
+
 .column-left button {
-    float:right;
+    float: right;
     margin: 0px;
 }
+
 .synthese .column-left #namespan {
-    float:left;
+    float: left;
     margin-right: 154px;
 }
+
 .column-info {
     clear: both;
-    position:relative;
+    position: relative;
     width: 100%;
     text-align: left;
     padding: 12px;
 }
+
 .column-info > span {
     margin-right: 290px;
 }
-.remi{
+
+.remi {
     margin-top: -34px;
 }
-.remi2{
+
+.remi2 {
     margin-top: 52px;
 }
-.alignInput{
+
+.alignInput {
     margin-left: 94px;
 }
+
 .textlab {
-    text-align:center !important;
+    text-align: center !important;
 }
+
 /*ColorBox tables*/
 table.poppup thead th {
     width: 150px;
     background-color: #a4170e;
-    color:#FFFFFF;
+    color: #FFFFFF;
 }
+
 table.poppup tbody td {
     padding-top: 5px;
     text-align: center;
 }
+
 table.poppup tbody tr:nth-child(odd) {
     background-color: #dbd9d9;
 }
+
 table.poppup tbody tr:nth-child(even) {
     background-color: #f0f0f0;
 }
 
-.sepair{
+.sepair {
     margin: 5px auto 5px 10px !important;
 }
-.btn-etudes{
-    float: right ;
-    width: 29%; 
+
+.btn-etudes {
+    float: right;
+    width: 29%;
     margin: 0px auto;
     padding: 0 17px !important;
 }
-.intput-etudes{    
+
+.intput-etudes {
     float: left;
-    width: 40%!important;
-    margin-right: 2px!important;
+    width: 40% !important;
+    margin-right: 2px !important;
 }
