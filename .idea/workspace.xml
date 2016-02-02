@@ -2,779 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="234a2a10-07f2-41aa-befa-b96a0917b0d7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/sls-acces-codes-planteur-1522015.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/sls-acces-codes-planteur-1522015.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/default/views/root/contact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/default/views/root/home.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/default/scripts/default/jquery/jquery-1.5.2.min.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/default/views/root/404.php" afterPath="$PROJECT_DIR$/apps/default/views/errors/404.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/bootstrap.php" afterPath="$PROJECT_DIR$/apps/admin/bootstrap.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/ajax.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/ajax.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/blocs.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/blocs.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/brands.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/brands.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/clients.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/clients.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/commandes.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/commandes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/contacts.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/contacts.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/etudes.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/etudes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/fdp.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/fdp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/mails.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/mails.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/menus.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/menus.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/partenaires.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/partenaires.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/president.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/president.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/produits.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/produits.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/promotions.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/promotions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/protected.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/protected.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/queries.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/queries.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/redirections.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/redirections.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/root.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/root.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/routages.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/routages.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/settings.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/settings.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/stats.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/stats.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/templates.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/templates.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/temproduits.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/temproduits.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/thickbox.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/thickbox.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/traductions.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/traductions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/tree.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/tree.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/tresorier.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/tresorier.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/users.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/users.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/utilisateurs.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/utilisateurs.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/ventes.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/ventes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/controllers/zones.php" afterPath="$PROJECT_DIR$/apps/admin/controllers/zones.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/ajax/imagesProduits.php" afterPath="$PROJECT_DIR$/apps/admin/views/ajax/imagesProduits.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/ajax/loadNomTexte.php" afterPath="$PROJECT_DIR$/apps/admin/views/ajax/loadNomTexte.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/ajax/loadTradTexte.php" afterPath="$PROJECT_DIR$/apps/admin/views/ajax/loadTradTexte.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/ajax/produitComplementaire.php" afterPath="$PROJECT_DIR$/apps/admin/views/ajax/produitComplementaire.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/blocs/add.php" afterPath="$PROJECT_DIR$/apps/admin/views/blocs/add.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/blocs/addElement.php" afterPath="$PROJECT_DIR$/apps/admin/views/blocs/addElement.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/blocs/default.php" afterPath="$PROJECT_DIR$/apps/admin/views/blocs/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/blocs/edit.php" afterPath="$PROJECT_DIR$/apps/admin/views/blocs/edit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/blocs/editElement.php" afterPath="$PROJECT_DIR$/apps/admin/views/blocs/editElement.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/blocs/edition.php" afterPath="$PROJECT_DIR$/apps/admin/views/blocs/edition.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/blocs/elements.php" afterPath="$PROJECT_DIR$/apps/admin/views/blocs/elements.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/blocs/modifier.php" afterPath="$PROJECT_DIR$/apps/admin/views/blocs/modifier.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/brands/add.php" afterPath="$PROJECT_DIR$/apps/admin/views/brands/add.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/brands/default.php" afterPath="$PROJECT_DIR$/apps/admin/views/brands/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/brands/edit.php" afterPath="$PROJECT_DIR$/apps/admin/views/brands/edit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/clients/add.php" afterPath="$PROJECT_DIR$/apps/admin/views/clients/add.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/clients/addGroupe.php" afterPath="$PROJECT_DIR$/apps/admin/views/clients/addGroupe.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/clients/add_old.php" afterPath="$PROJECT_DIR$/apps/admin/views/clients/add_old.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/clients/addmemo.php" afterPath="$PROJECT_DIR$/apps/admin/views/clients/addmemo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/clients/default.php" afterPath="$PROJECT_DIR$/apps/admin/views/clients/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/clients/default_old.php" afterPath="$PROJECT_DIR$/apps/admin/views/clients/default_old.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/clients/detailsClient.php" afterPath="$PROJECT_DIR$/apps/admin/views/clients/detailsClient.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/clients/detailsCommande.php" afterPath="$PROJECT_DIR$/apps/admin/views/clients/detailsCommande.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/clients/detailsGroupe.php" afterPath="$PROJECT_DIR$/apps/admin/views/clients/detailsGroupe.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/clients/edit.php" afterPath="$PROJECT_DIR$/apps/admin/views/clients/edit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/clients/editGroupe.php" afterPath="$PROJECT_DIR$/apps/admin/views/clients/editGroupe.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/clients/edit_old.php" afterPath="$PROJECT_DIR$/apps/admin/views/clients/edit_old.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/clients/editmemo.php" afterPath="$PROJECT_DIR$/apps/admin/views/clients/editmemo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/clients/exportNews.php" afterPath="$PROJECT_DIR$/apps/admin/views/clients/exportNews.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/clients/groupes.php" afterPath="$PROJECT_DIR$/apps/admin/views/clients/groupes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/clients/newsletter.php" afterPath="$PROJECT_DIR$/apps/admin/views/clients/newsletter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/clients/search.php" afterPath="$PROJECT_DIR$/apps/admin/views/clients/search.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/clients/view.php" afterPath="$PROJECT_DIR$/apps/admin/views/clients/view.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/commandes/boxSearch.php" afterPath="$PROJECT_DIR$/apps/admin/views/commandes/boxSearch.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/commandes/default.php" afterPath="$PROJECT_DIR$/apps/admin/views/commandes/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/commandes/details.php" afterPath="$PROJECT_DIR$/apps/admin/views/commandes/details.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/commandes/search.php" afterPath="$PROJECT_DIR$/apps/admin/views/commandes/search.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/contacts/add.php" afterPath="$PROJECT_DIR$/apps/admin/views/contacts/add.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/contacts/default.php" afterPath="$PROJECT_DIR$/apps/admin/views/contacts/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/contacts/default_alt.php" afterPath="$PROJECT_DIR$/apps/admin/views/contacts/default_alt.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/contacts/edit.php" afterPath="$PROJECT_DIR$/apps/admin/views/contacts/edit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/contacts/view.php" afterPath="$PROJECT_DIR$/apps/admin/views/contacts/view.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/etudes/DocumentTemplates/accord-de-confidentialite.php" afterPath="$PROJECT_DIR$/apps/admin/views/etudes/DocumentTemplates/accord-de-confidentialite.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/etudes/DocumentTemplates/accord-de-confidentialite_1.php" afterPath="$PROJECT_DIR$/apps/admin/views/etudes/DocumentTemplates/accord-de-confidentialite_1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/etudes/DocumentTemplates/attestation-de-fin-de-mission.php" afterPath="$PROJECT_DIR$/apps/admin/views/etudes/DocumentTemplates/attestation-de-fin-de-mission.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/etudes/DocumentTemplates/avenant-etudiant.php" afterPath="$PROJECT_DIR$/apps/admin/views/etudes/DocumentTemplates/avenant-etudiant.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/etudes/DocumentTemplates/convention.php" afterPath="$PROJECT_DIR$/apps/admin/views/etudes/DocumentTemplates/convention.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/etudes/DocumentTemplates/facture.php" afterPath="$PROJECT_DIR$/apps/admin/views/etudes/DocumentTemplates/facture.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/etudes/add.php" afterPath="$PROJECT_DIR$/apps/admin/views/etudes/add.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/etudes/default.php" afterPath="$PROJECT_DIR$/apps/admin/views/etudes/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/etudes/edit.php" afterPath="$PROJECT_DIR$/apps/admin/views/etudes/edit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/etudes/typeDocument.php" afterPath="$PROJECT_DIR$/apps/admin/views/etudes/typeDocument.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/etudes/typeDocuments/accord-de-confidentialite.php" afterPath="$PROJECT_DIR$/apps/admin/views/etudes/typeDocuments/accord-de-confidentialite.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/etudes/typeDocuments/attestation-de-fin-de-mission.php" afterPath="$PROJECT_DIR$/apps/admin/views/etudes/typeDocuments/attestation-de-fin-de-mission.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/etudes/typeDocuments/avenant-etudiant.php" afterPath="$PROJECT_DIR$/apps/admin/views/etudes/typeDocuments/avenant-etudiant.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/etudes/typeDocuments/convention.php" afterPath="$PROJECT_DIR$/apps/admin/views/etudes/typeDocuments/convention.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/etudes/typeDocuments/conventionTemplate.php" afterPath="$PROJECT_DIR$/apps/admin/views/etudes/typeDocuments/conventionTemplate.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/etudes/typeDocuments/convention_1.php" afterPath="$PROJECT_DIR$/apps/admin/views/etudes/typeDocuments/convention_1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/etudes/typeDocuments/conventionold.php" afterPath="$PROJECT_DIR$/apps/admin/views/etudes/typeDocuments/conventionold.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/etudes/typeDocuments/example-accord-de-confidentialite.php" afterPath="$PROJECT_DIR$/apps/admin/views/etudes/typeDocuments/example-accord-de-confidentialite.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/etudes/typeDocuments/facture.php" afterPath="$PROJECT_DIR$/apps/admin/views/etudes/typeDocuments/facture.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/etudes/typeDocuments/factureOld.php" afterPath="$PROJECT_DIR$/apps/admin/views/etudes/typeDocuments/factureOld.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/etudes/typeDocuments/note-de-frais-attachee-a-une-facture.php" afterPath="$PROJECT_DIR$/apps/admin/views/etudes/typeDocuments/note-de-frais-attachee-a-une-facture.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/fdp/addFDP.php" afterPath="$PROJECT_DIR$/apps/admin/views/fdp/addFDP.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/fdp/addType.php" afterPath="$PROJECT_DIR$/apps/admin/views/fdp/addType.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/fdp/addZone.php" afterPath="$PROJECT_DIR$/apps/admin/views/fdp/addZone.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/fdp/default.php" afterPath="$PROJECT_DIR$/apps/admin/views/fdp/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/fdp/editFDP.php" afterPath="$PROJECT_DIR$/apps/admin/views/fdp/editFDP.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/fdp/editType.php" afterPath="$PROJECT_DIR$/apps/admin/views/fdp/editType.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/fdp/editZone.php" afterPath="$PROJECT_DIR$/apps/admin/views/fdp/editZone.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/fdp/types.php" afterPath="$PROJECT_DIR$/apps/admin/views/fdp/types.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/footer.php" afterPath="$PROJECT_DIR$/apps/admin/views/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/head.php" afterPath="$PROJECT_DIR$/apps/admin/views/head.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/header.php" afterPath="$PROJECT_DIR$/apps/admin/views/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/headerDoc.php" afterPath="$PROJECT_DIR$/apps/admin/views/headerDoc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/mails/add.php" afterPath="$PROJECT_DIR$/apps/admin/views/mails/add.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/mails/default.php" afterPath="$PROJECT_DIR$/apps/admin/views/mails/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/mails/edit.php" afterPath="$PROJECT_DIR$/apps/admin/views/mails/edit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/mails/logs.php" afterPath="$PROJECT_DIR$/apps/admin/views/mails/logs.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/mails/logsdetails.php" afterPath="$PROJECT_DIR$/apps/admin/views/mails/logsdetails.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/mails/recherche.php" afterPath="$PROJECT_DIR$/apps/admin/views/mails/recherche.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/menus/add.php" afterPath="$PROJECT_DIR$/apps/admin/views/menus/add.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/menus/addElement.php" afterPath="$PROJECT_DIR$/apps/admin/views/menus/addElement.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/menus/default.php" afterPath="$PROJECT_DIR$/apps/admin/views/menus/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/menus/edit.php" afterPath="$PROJECT_DIR$/apps/admin/views/menus/edit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/menus/editElement.php" afterPath="$PROJECT_DIR$/apps/admin/views/menus/editElement.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/menus/elements.php" afterPath="$PROJECT_DIR$/apps/admin/views/menus/elements.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/partenaires/add.php" afterPath="$PROJECT_DIR$/apps/admin/views/partenaires/add.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/partenaires/addType.php" afterPath="$PROJECT_DIR$/apps/admin/views/partenaires/addType.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/partenaires/default.php" afterPath="$PROJECT_DIR$/apps/admin/views/partenaires/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/partenaires/edit.php" afterPath="$PROJECT_DIR$/apps/admin/views/partenaires/edit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/partenaires/editType.php" afterPath="$PROJECT_DIR$/apps/admin/views/partenaires/editType.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/partenaires/types.php" afterPath="$PROJECT_DIR$/apps/admin/views/partenaires/types.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/partials/_clientsTable.php" afterPath="$PROJECT_DIR$/apps/admin/views/partials/_clientsTable.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/president/add_tresorier.php" afterPath="$PROJECT_DIR$/apps/admin/views/president/add_tresorier.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/president/default.php" afterPath="$PROJECT_DIR$/apps/admin/views/president/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/produits/add.php" afterPath="$PROJECT_DIR$/apps/admin/views/produits/add.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/produits/avis.php" afterPath="$PROJECT_DIR$/apps/admin/views/produits/avis.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/produits/default.php" afterPath="$PROJECT_DIR$/apps/admin/views/produits/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/produits/edit.php" afterPath="$PROJECT_DIR$/apps/admin/views/produits/edit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/produits/recherche.php" afterPath="$PROJECT_DIR$/apps/admin/views/produits/recherche.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/produits/upload.php" afterPath="$PROJECT_DIR$/apps/admin/views/produits/upload.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/promotions/add.php" afterPath="$PROJECT_DIR$/apps/admin/views/promotions/add.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/promotions/default.php" afterPath="$PROJECT_DIR$/apps/admin/views/promotions/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/promotions/edit.php" afterPath="$PROJECT_DIR$/apps/admin/views/promotions/edit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/queries/add.php" afterPath="$PROJECT_DIR$/apps/admin/views/queries/add.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/queries/default.php" afterPath="$PROJECT_DIR$/apps/admin/views/queries/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/queries/edit.php" afterPath="$PROJECT_DIR$/apps/admin/views/queries/edit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/queries/excel.php" afterPath="$PROJECT_DIR$/apps/admin/views/queries/excel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/queries/execute.php" afterPath="$PROJECT_DIR$/apps/admin/views/queries/execute.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/queries/params.php" afterPath="$PROJECT_DIR$/apps/admin/views/queries/params.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/redirections/add.php" afterPath="$PROJECT_DIR$/apps/admin/views/redirections/add.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/redirections/default.php" afterPath="$PROJECT_DIR$/apps/admin/views/redirections/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/redirections/edit.php" afterPath="$PROJECT_DIR$/apps/admin/views/redirections/edit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/root/default.php" afterPath="$PROJECT_DIR$/apps/admin/views/root/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/root/home.php" afterPath="$PROJECT_DIR$/apps/admin/views/root/home.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/root/login.php" afterPath="$PROJECT_DIR$/apps/admin/views/root/login.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/settings/add.php" afterPath="$PROJECT_DIR$/apps/admin/views/settings/add.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/settings/default.php" afterPath="$PROJECT_DIR$/apps/admin/views/settings/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/settings/edit.php" afterPath="$PROJECT_DIR$/apps/admin/views/settings/edit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/stats/default.php" afterPath="$PROJECT_DIR$/apps/admin/views/stats/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/templates/add.php" afterPath="$PROJECT_DIR$/apps/admin/views/templates/add.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/templates/addBloc.php" afterPath="$PROJECT_DIR$/apps/admin/views/templates/addBloc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/templates/addElement.php" afterPath="$PROJECT_DIR$/apps/admin/views/templates/addElement.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/templates/default.php" afterPath="$PROJECT_DIR$/apps/admin/views/templates/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/templates/edit.php" afterPath="$PROJECT_DIR$/apps/admin/views/templates/edit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/templates/editElement.php" afterPath="$PROJECT_DIR$/apps/admin/views/templates/editElement.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/templates/edition.php" afterPath="$PROJECT_DIR$/apps/admin/views/templates/edition.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/templates/elements.php" afterPath="$PROJECT_DIR$/apps/admin/views/templates/elements.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/temproduits/add.php" afterPath="$PROJECT_DIR$/apps/admin/views/temproduits/add.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/temproduits/addBloc.php" afterPath="$PROJECT_DIR$/apps/admin/views/temproduits/addBloc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/temproduits/addElement.php" afterPath="$PROJECT_DIR$/apps/admin/views/temproduits/addElement.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/temproduits/default.php" afterPath="$PROJECT_DIR$/apps/admin/views/temproduits/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/temproduits/edit.php" afterPath="$PROJECT_DIR$/apps/admin/views/temproduits/edit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/temproduits/editElement.php" afterPath="$PROJECT_DIR$/apps/admin/views/temproduits/editElement.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/temproduits/edition.php" afterPath="$PROJECT_DIR$/apps/admin/views/temproduits/edition.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/temproduits/elements.php" afterPath="$PROJECT_DIR$/apps/admin/views/temproduits/elements.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/thickbox/loginError.php" afterPath="$PROJECT_DIR$/apps/admin/views/thickbox/loginError.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/thickbox/loginInterdit.php" afterPath="$PROJECT_DIR$/apps/admin/views/thickbox/loginInterdit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/thickbox/newPassword.php" afterPath="$PROJECT_DIR$/apps/admin/views/thickbox/newPassword.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/traductions/add.php" afterPath="$PROJECT_DIR$/apps/admin/views/traductions/add.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/traductions/default.php" afterPath="$PROJECT_DIR$/apps/admin/views/traductions/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/traductions/export.php" afterPath="$PROJECT_DIR$/apps/admin/views/traductions/export.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/traductions/import.php" afterPath="$PROJECT_DIR$/apps/admin/views/traductions/import.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/tree/add.php" afterPath="$PROJECT_DIR$/apps/admin/views/tree/add.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/tree/copyPage.php" afterPath="$PROJECT_DIR$/apps/admin/views/tree/copyPage.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/tree/default.php" afterPath="$PROJECT_DIR$/apps/admin/views/tree/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/tree/edit.php" afterPath="$PROJECT_DIR$/apps/admin/views/tree/edit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/tresorier/default.php" afterPath="$PROJECT_DIR$/apps/admin/views/tresorier/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/users/add.php" afterPath="$PROJECT_DIR$/apps/admin/views/users/add.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/users/add_cdm.php" afterPath="$PROJECT_DIR$/apps/admin/views/users/add_cdm.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/users/add_cdp.php" afterPath="$PROJECT_DIR$/apps/admin/views/users/add_cdp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/users/add_old.php" afterPath="$PROJECT_DIR$/apps/admin/views/users/add_old.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/users/anciencdp.php" afterPath="$PROJECT_DIR$/apps/admin/views/users/anciencdp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/users/cdm.php" afterPath="$PROJECT_DIR$/apps/admin/views/users/cdm.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/users/cdp.php" afterPath="$PROJECT_DIR$/apps/admin/views/users/cdp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/users/default_old.php" afterPath="$PROJECT_DIR$/apps/admin/views/users/default_old.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/users/edit.php" afterPath="$PROJECT_DIR$/apps/admin/views/users/edit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/users/edit_cdm.php" afterPath="$PROJECT_DIR$/apps/admin/views/users/edit_cdm.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/users/edit_old.php" afterPath="$PROJECT_DIR$/apps/admin/views/users/edit_old.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/users/synthese_cdm.php" afterPath="$PROJECT_DIR$/apps/admin/views/users/synthese_cdm.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/users/view_cdm.php" afterPath="$PROJECT_DIR$/apps/admin/views/users/view_cdm.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/users/view_cdp.php" afterPath="$PROJECT_DIR$/apps/admin/views/users/view_cdp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/utilisateurs/edit_utilisateurs.php" afterPath="$PROJECT_DIR$/apps/admin/views/utilisateurs/edit_utilisateurs.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/ventes/default.php" afterPath="$PROJECT_DIR$/apps/admin/views/ventes/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/zones/add.php" afterPath="$PROJECT_DIR$/apps/admin/views/zones/add.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/zones/default.php" afterPath="$PROJECT_DIR$/apps/admin/views/zones/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/views/zones/edit.php" afterPath="$PROJECT_DIR$/apps/admin/views/zones/edit.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/default/bootstrap.php" afterPath="$PROJECT_DIR$/apps/default/bootstrap.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/default/controllers/ajax.php" afterPath="$PROJECT_DIR$/apps/default/controllers/ajax.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/default/controllers/cron.php" afterPath="$PROJECT_DIR$/apps/default/controllers/cron.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/default/controllers/panier.php" afterPath="$PROJECT_DIR$/apps/default/controllers/panier.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/default/controllers/root.php" afterPath="$PROJECT_DIR$/apps/default/controllers/root.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/default/controllers/thickbox.php" afterPath="$PROJECT_DIR$/apps/default/controllers/thickbox.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/default/views/footer.php" afterPath="$PROJECT_DIR$/apps/default/views/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/default/views/head.php" afterPath="$PROJECT_DIR$/apps/default/views/head.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/default/views/root/404.php" afterPath="$PROJECT_DIR$/apps/default/views/root/404.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/default/views/thickbox/openTraduc.php" afterPath="$PROJECT_DIR$/apps/default/views/thickbox/openTraduc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.php" afterPath="$PROJECT_DIR$/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/bdd.class.php" afterPath="$PROJECT_DIR$/core/bdd.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/command.class.php" afterPath="$PROJECT_DIR$/core/command.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/controller.class.php" afterPath="$PROJECT_DIR$/core/controller.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/crud.sample.php" afterPath="$PROJECT_DIR$/core/crud.sample.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/crud2.sample.php" afterPath="$PROJECT_DIR$/core/crud2.sample.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/data.sample.php" afterPath="$PROJECT_DIR$/core/data.sample.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/data2.sample.php" afterPath="$PROJECT_DIR$/core/data2.sample.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/dispatcher.class.php" afterPath="$PROJECT_DIR$/core/dispatcher.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/errorhandler.class.php" afterPath="$PROJECT_DIR$/core/errorhandler.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/blocs.data.php" afterPath="$PROJECT_DIR$/data/blocs.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/blocs_elements.data.php" afterPath="$PROJECT_DIR$/data/blocs_elements.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/blocs_templates.data.php" afterPath="$PROJECT_DIR$/data/blocs_templates.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/brands.data.php" afterPath="$PROJECT_DIR$/data/brands.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cdm_etude.data.php" afterPath="$PROJECT_DIR$/data/cdm_etude.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cdms.data.php" afterPath="$PROJECT_DIR$/data/cdms.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cdp_etude.data.php" afterPath="$PROJECT_DIR$/data/cdp_etude.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cdps.data.php" afterPath="$PROJECT_DIR$/data/cdps.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cdps_zones.data.php" afterPath="$PROJECT_DIR$/data/cdps_zones.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/clients.data.php" afterPath="$PROJECT_DIR$/data/clients.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/clients_adresses.data.php" afterPath="$PROJECT_DIR$/data/clients_adresses.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/contacts.data.php" afterPath="$PROJECT_DIR$/data/contacts.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/blocs.crud.php" afterPath="$PROJECT_DIR$/data/crud/blocs.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/blocs_elements.crud.php" afterPath="$PROJECT_DIR$/data/crud/blocs_elements.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/blocs_templates.crud.php" afterPath="$PROJECT_DIR$/data/crud/blocs_templates.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/cdm_etude.crud.php" afterPath="$PROJECT_DIR$/data/crud/cdm_etude.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/cdms.crud.php" afterPath="$PROJECT_DIR$/data/crud/cdms.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/cdp_etude.crud.php" afterPath="$PROJECT_DIR$/data/crud/cdp_etude.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/cdps.crud.php" afterPath="$PROJECT_DIR$/data/crud/cdps.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/cdps_zones.crud.php" afterPath="$PROJECT_DIR$/data/crud/cdps_zones.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/contacts.crud.php" afterPath="$PROJECT_DIR$/data/crud/contacts.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/doc_elements.crud.php" afterPath="$PROJECT_DIR$/data/crud/doc_elements.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/doc_templates.crud.php" afterPath="$PROJECT_DIR$/data/crud/doc_templates.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/documents.crud.php" afterPath="$PROJECT_DIR$/data/crud/documents.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/elements.crud.php" afterPath="$PROJECT_DIR$/data/crud/elements.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/etudes.crud.php" afterPath="$PROJECT_DIR$/data/crud/etudes.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/formes.crud.php" afterPath="$PROJECT_DIR$/data/crud/formes.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/info_documents.crud.php" afterPath="$PROJECT_DIR$/data/crud/info_documents.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/mails_filer.crud.php" afterPath="$PROJECT_DIR$/data/crud/mails_filer.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/mails_text.crud.php" afterPath="$PROJECT_DIR$/data/crud/mails_text.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/memos.crud.php" afterPath="$PROJECT_DIR$/data/crud/memos.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/nmp.crud.php" afterPath="$PROJECT_DIR$/data/crud/nmp.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/nmp_desabo.crud.php" afterPath="$PROJECT_DIR$/data/crud/nmp_desabo.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/oge_clients.crud.php" afterPath="$PROJECT_DIR$/data/crud/oge_clients.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/oge_clients_contacts.crud.php" afterPath="$PROJECT_DIR$/data/crud/oge_clients_contacts.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/partenaires.crud.php" afterPath="$PROJECT_DIR$/data/crud/partenaires.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/partenaires_clics.crud.php" afterPath="$PROJECT_DIR$/data/crud/partenaires_clics.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/pays.crud.php" afterPath="$PROJECT_DIR$/data/crud/pays.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/produits.crud.php" afterPath="$PROJECT_DIR$/data/crud/produits.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/produits_details.crud.php" afterPath="$PROJECT_DIR$/data/crud/produits_details.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/produits_elements.crud.php" afterPath="$PROJECT_DIR$/data/crud/produits_elements.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/produits_images.crud.php" afterPath="$PROJECT_DIR$/data/crud/produits_images.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/promotions.crud.php" afterPath="$PROJECT_DIR$/data/crud/promotions.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/redirections.crud.php" afterPath="$PROJECT_DIR$/data/crud/redirections.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/routages.crud.php" afterPath="$PROJECT_DIR$/data/crud/routages.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/sectors.crud.php" afterPath="$PROJECT_DIR$/data/crud/sectors.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/settings.crud.php" afterPath="$PROJECT_DIR$/data/crud/settings.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/templates.crud.php" afterPath="$PROJECT_DIR$/data/crud/templates.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/textes.crud.php" afterPath="$PROJECT_DIR$/data/crud/textes.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/tree.crud.php" afterPath="$PROJECT_DIR$/data/crud/tree.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/tree_elements.crud.php" afterPath="$PROJECT_DIR$/data/crud/tree_elements.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/type_document.crud.php" afterPath="$PROJECT_DIR$/data/crud/type_document.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/users.crud.php" afterPath="$PROJECT_DIR$/data/crud/users.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/users_zones.crud.php" afterPath="$PROJECT_DIR$/data/crud/users_zones.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/crud/ville.crud.php" afterPath="$PROJECT_DIR$/data/crud/ville.crud.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/doc_elements.data.php" afterPath="$PROJECT_DIR$/data/doc_elements.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/doc_templates.data.php" afterPath="$PROJECT_DIR$/data/doc_templates.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/document_templates.data.php" afterPath="$PROJECT_DIR$/data/document_templates.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/documents.data.php" afterPath="$PROJECT_DIR$/data/documents.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/elements.data.php" afterPath="$PROJECT_DIR$/data/elements.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/etudes.data.php" afterPath="$PROJECT_DIR$/data/etudes.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/fdp.data.php" afterPath="$PROJECT_DIR$/data/fdp.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/fdp_type.data.php" afterPath="$PROJECT_DIR$/data/fdp_type.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/forme.data.php" afterPath="$PROJECT_DIR$/data/forme.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/formes.data.php" afterPath="$PROJECT_DIR$/data/formes.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/info_documents.data.php" afterPath="$PROJECT_DIR$/data/info_documents.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/mails_filer.data.php" afterPath="$PROJECT_DIR$/data/mails_filer.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/mails_text.data.php" afterPath="$PROJECT_DIR$/data/mails_text.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/memos.data.php" afterPath="$PROJECT_DIR$/data/memos.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/menus.data.php" afterPath="$PROJECT_DIR$/data/menus.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/nmp.data.php" afterPath="$PROJECT_DIR$/data/nmp.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/nmp_desabo.data.php" afterPath="$PROJECT_DIR$/data/nmp_desabo.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/oge_clients.data.php" afterPath="$PROJECT_DIR$/data/oge_clients.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/oge_clients_contacts.data.php" afterPath="$PROJECT_DIR$/data/oge_clients_contacts.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/oge_clients_contacts_history.data.php" afterPath="$PROJECT_DIR$/data/oge_clients_contacts_history.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/paniers.data.php" afterPath="$PROJECT_DIR$/data/paniers.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/partenaires.data.php" afterPath="$PROJECT_DIR$/data/partenaires.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/partenaires_clics.data.php" afterPath="$PROJECT_DIR$/data/partenaires_clics.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/pays.data.php" afterPath="$PROJECT_DIR$/data/pays.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/produits.data.php" afterPath="$PROJECT_DIR$/data/produits.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/produits_details.data.php" afterPath="$PROJECT_DIR$/data/produits_details.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/produits_elements.data.php" afterPath="$PROJECT_DIR$/data/produits_elements.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/produits_images.data.php" afterPath="$PROJECT_DIR$/data/produits_images.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/promotions.data.php" afterPath="$PROJECT_DIR$/data/promotions.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/queries.data.php" afterPath="$PROJECT_DIR$/data/queries.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/redirections.data.php" afterPath="$PROJECT_DIR$/data/redirections.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/routages.data.php" afterPath="$PROJECT_DIR$/data/routages.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/sectors.data.php" afterPath="$PROJECT_DIR$/data/sectors.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/settings.data.php" afterPath="$PROJECT_DIR$/data/settings.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/spare_promos.data.php" afterPath="$PROJECT_DIR$/data/spare_promos.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/templates.data.php" afterPath="$PROJECT_DIR$/data/templates.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/textes.data.php" afterPath="$PROJECT_DIR$/data/textes.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/transactions.data.php" afterPath="$PROJECT_DIR$/data/transactions.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tree.data.php" afterPath="$PROJECT_DIR$/data/tree.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tree_elements.data.php" afterPath="$PROJECT_DIR$/data/tree_elements.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tree_menu.data.php" afterPath="$PROJECT_DIR$/data/tree_menu.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/type_document.data.php" afterPath="$PROJECT_DIR$/data/type_document.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/users.data.php" afterPath="$PROJECT_DIR$/data/users.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/users_zones.data.php" afterPath="$PROJECT_DIR$/data/users_zones.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/ville.data.php" afterPath="$PROJECT_DIR$/data/ville.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/zones.data.php" afterPath="$PROJECT_DIR$/data/zones.data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/dates.class.php" afterPath="$PROJECT_DIR$/librairies/dates.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/elgoog.class.php" afterPath="$PROJECT_DIR$/librairies/elgoog.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/email.class.php" afterPath="$PROJECT_DIR$/librairies/email.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/ficelle.class.php" afterPath="$PROJECT_DIR$/librairies/ficelle.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/FAQ.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/FAQ.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/acceptpagebreak.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/acceptpagebreak.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/addfont.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/addfont.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/addlink.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/addlink.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/addpage.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/addpage.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/aliasnbpages.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/aliasnbpages.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/cell.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/cell.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/close.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/close.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/error.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/error.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/footer.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/footer.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/fpdf.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/fpdf.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/getstringwidth.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/getstringwidth.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/getx.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/getx.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/gety.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/gety.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/header.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/header.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/image.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/image.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/index.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/index.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/line.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/line.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/link.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/link.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/ln.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/ln.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/multicell.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/multicell.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/output.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/output.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/pageno.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/pageno.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/rect.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/rect.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/setauthor.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/setauthor.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/setautopagebreak.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/setautopagebreak.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/setcompression.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/setcompression.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/setcreator.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/setcreator.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/setdisplaymode.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/setdisplaymode.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/setdrawcolor.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/setdrawcolor.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/setfillcolor.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/setfillcolor.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/setfont.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/setfont.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/setfontsize.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/setfontsize.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/setkeywords.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/setkeywords.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/setleftmargin.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/setleftmargin.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/setlinewidth.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/setlinewidth.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/setlink.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/setlink.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/setmargins.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/setmargins.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/setrightmargin.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/setrightmargin.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/setsubject.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/setsubject.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/settextcolor.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/settextcolor.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/settitle.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/settitle.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/settopmargin.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/settopmargin.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/setx.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/setx.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/setxy.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/setxy.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/sety.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/sety.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/text.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/text.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/doc/write.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/doc/write.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/font/DIN.php" afterPath="$PROJECT_DIR$/librairies/fpdf/font/DIN.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/font/DINBold.php" afterPath="$PROJECT_DIR$/librairies/fpdf/font/DINBold.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/font/MTCORSVA.php" afterPath="$PROJECT_DIR$/librairies/fpdf/font/MTCORSVA.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/font/courier.php" afterPath="$PROJECT_DIR$/librairies/fpdf/font/courier.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/font/helvetica.php" afterPath="$PROJECT_DIR$/librairies/fpdf/font/helvetica.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/font/helveticab.php" afterPath="$PROJECT_DIR$/librairies/fpdf/font/helveticab.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/font/helveticabi.php" afterPath="$PROJECT_DIR$/librairies/fpdf/font/helveticabi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/font/helveticai.php" afterPath="$PROJECT_DIR$/librairies/fpdf/font/helveticai.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/font/makefont/makefont.php" afterPath="$PROJECT_DIR$/librairies/fpdf/font/makefont/makefont.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/font/symbol.php" afterPath="$PROJECT_DIR$/librairies/fpdf/font/symbol.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/font/times.php" afterPath="$PROJECT_DIR$/librairies/fpdf/font/times.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/font/timesb.php" afterPath="$PROJECT_DIR$/librairies/fpdf/font/timesb.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/font/timesbi.php" afterPath="$PROJECT_DIR$/librairies/fpdf/font/timesbi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/font/timesi.php" afterPath="$PROJECT_DIR$/librairies/fpdf/font/timesi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/font/zapfdingbats.php" afterPath="$PROJECT_DIR$/librairies/fpdf/font/zapfdingbats.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/fpdf.css" afterPath="$PROJECT_DIR$/librairies/fpdf/fpdf.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/fpdf.php" afterPath="$PROJECT_DIR$/librairies/fpdf/fpdf.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/histo.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/histo.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/install.txt" afterPath="$PROJECT_DIR$/librairies/fpdf/install.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/license.txt" afterPath="$PROJECT_DIR$/librairies/fpdf/license.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/tutoriel/20k_c1.txt" afterPath="$PROJECT_DIR$/librairies/fpdf/tutoriel/20k_c1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/tutoriel/20k_c2.txt" afterPath="$PROJECT_DIR$/librairies/fpdf/tutoriel/20k_c2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/tutoriel/calligra.afm" afterPath="$PROJECT_DIR$/librairies/fpdf/tutoriel/calligra.afm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/tutoriel/calligra.php" afterPath="$PROJECT_DIR$/librairies/fpdf/tutoriel/calligra.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/tutoriel/index.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/tutoriel/index.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/tutoriel/makefont.php" afterPath="$PROJECT_DIR$/librairies/fpdf/tutoriel/makefont.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/tutoriel/pays.txt" afterPath="$PROJECT_DIR$/librairies/fpdf/tutoriel/pays.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto1.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto1.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto1.php" afterPath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto2.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto2.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto2.php" afterPath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto3.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto3.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto3.php" afterPath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto3.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto4.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto4.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto4.php" afterPath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto4.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto5.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto5.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto5.php" afterPath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto5.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto6.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto6.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto6.php" afterPath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto6.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto7.htm" afterPath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto7.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto7.php" afterPath="$PROJECT_DIR$/librairies/fpdf/tutoriel/tuto7.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/gapi.class.php" afterPath="$PROJECT_DIR$/librairies/gapi.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_LGPL.txt" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_LGPL.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_lisez_moi.txt" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_lisez_moi.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_mypdf/mypdf.class.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_mypdf/mypdf.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_mypdf/tcpdf_config_html2pdf.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_mypdf/tcpdf_config_html2pdf.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_read_me.txt" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_read_me.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/2dbarcodes.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/2dbarcodes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/CHANGELOG.TXT" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/CHANGELOG.TXT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/LICENSE.TXT" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/LICENSE.TXT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/README.TXT" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/README.TXT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/barcodes.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/barcodes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/cache/chapter_demo_1.txt" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/cache/chapter_demo_1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/cache/chapter_demo_2.txt" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/cache/chapter_demo_2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/cache/table_data_demo.txt" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/cache/table_data_demo.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/cache/utf8test.txt" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/cache/utf8test.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/config/lang/bra.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/config/lang/bra.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/config/lang/eng.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/config/lang/eng.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/config/lang/ger.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/config/lang/ger.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/config/lang/ita.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/config/lang/ita.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/config/tcpdf_config.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/config/tcpdf_config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/config/tcpdf_config_alt.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/config/tcpdf_config_alt.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/doc/read_me.txt" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/doc/read_me.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/examples/read_me.txt" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/examples/read_me.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/README.TXT" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/README.TXT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/almohanad.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/almohanad.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/arialunicid0.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/arialunicid0.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/courier.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/courier.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavu-fonts-ttf-2.30/AUTHORS" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavu-fonts-ttf-2.30/AUTHORS" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavu-fonts-ttf-2.30/BUGS" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavu-fonts-ttf-2.30/BUGS" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavu-fonts-ttf-2.30/LICENSE" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavu-fonts-ttf-2.30/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavu-fonts-ttf-2.30/NEWS" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavu-fonts-ttf-2.30/NEWS" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavu-fonts-ttf-2.30/README" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavu-fonts-ttf-2.30/README" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavu-fonts-ttf-2.30/langcover.txt" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavu-fonts-ttf-2.30/langcover.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavu-fonts-ttf-2.30/status.txt" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavu-fonts-ttf-2.30/status.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavu-fonts-ttf-2.30/unicover.txt" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavu-fonts-ttf-2.30/unicover.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavusans.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavusans.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavusansb.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavusansb.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavusansbi.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavusansbi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavusanscondensed.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavusanscondensed.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavusanscondensedb.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavusanscondensedb.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavusanscondensedbi.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavusanscondensedbi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavusanscondensedi.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavusanscondensedi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavusansi.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavusansi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavusansmono.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavusansmono.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavusansmonob.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavusansmonob.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavusansmonobi.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavusansmonobi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavusansmonoi.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavusansmonoi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavuserif.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavuserif.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavuserifb.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavuserifb.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavuserifbi.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavuserifbi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavuserifcondensed.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavuserifcondensed.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavuserifcondensedb.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavuserifcondensedb.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavuserifcondensedbi.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavuserifcondensedbi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavuserifcondensedi.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavuserifcondensedi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavuserifi.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/dejavuserifi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freefont-20090104/AUTHORS" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freefont-20090104/AUTHORS" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freefont-20090104/COPYING" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freefont-20090104/COPYING" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freefont-20090104/ChangeLog" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freefont-20090104/ChangeLog" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freefont-20090104/INSTALL" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freefont-20090104/INSTALL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freefont-20090104/README" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freefont-20090104/README" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freemono.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freemono.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freemonob.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freemonob.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freemonobi.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freemonobi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freemonoi.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freemonoi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freesans.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freesans.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freesansb.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freesansb.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freesansbi.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freesansbi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freesansi.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freesansi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freeserif.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freeserif.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freeserifb.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freeserifb.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freeserifbi.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freeserifbi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freeserifi.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/freeserifi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/helvetica.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/helvetica.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/helveticab.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/helveticab.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/helveticabi.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/helveticabi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/helveticai.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/helveticai.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/hysmyeongjostdmedium.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/hysmyeongjostdmedium.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/kozgopromedium.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/kozgopromedium.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/kozminproregular.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/kozminproregular.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/msungstdlight.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/msungstdlight.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/stsongstdlight.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/stsongstdlight.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/symbol.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/symbol.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/times.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/times.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/timesb.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/timesb.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/timesbi.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/timesbi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/timesi.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/timesi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/uni2cid_ac15.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/uni2cid_ac15.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/uni2cid_ag15.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/uni2cid_ag15.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/uni2cid_aj16.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/uni2cid_aj16.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/uni2cid_ak12.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/uni2cid_ak12.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/utils/README.TXT" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/utils/README.TXT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/utils/makeallttffonts.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/utils/makeallttffonts.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/utils/makefont.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/utils/makefont.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/utils/src/readme.txt" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/utils/src/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/zapfdingbats.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/zapfdingbats.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/zarbold.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/fonts/zarbold.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/htmlcolors.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/htmlcolors.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/images/read_me.txt" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/images/read_me.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/tcpdf.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/tcpdf.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/unicode_data.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/_tcpdf/unicode_data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/about.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/about.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/billet.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/billet.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/bookmark.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/bookmark.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/draw.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/draw.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple00.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple00.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple01.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple01.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple02.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple02.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple03.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple03.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple04.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple04.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple05.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple05.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple06.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple06.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple07.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple07.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple08.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple08.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple09.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple09.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple10.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple10.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple11.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple11.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple12.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple12.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple13.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/exemple13.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/formulaire.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/formulaire.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/js1.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/js1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/js2.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/js2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/js3.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/js3.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/qrcode.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/qrcode.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/radius.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/radius.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/regle.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/regle.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/about.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/about.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/draw.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/draw.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple00.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple00.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple01.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple01.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple02.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple02.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple03.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple03.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple04.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple04.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple05.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple05.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple06.css" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple06.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple06.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple06.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple07a.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple07a.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple07b.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple07b.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple08.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple08.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple09.png.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple09.png.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple10.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple10.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple11.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple11.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple12.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple12.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple13.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/exemple13.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/formulaire.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/res/formulaire.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/sapin.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/sapin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/tigre.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/tigre.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/exemples/utf8.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/exemples/utf8.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/html2pdf.class.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/html2pdf.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/langues/ca.txt" afterPath="$PROJECT_DIR$/librairies/html2pdf2/langues/ca.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/langues/da.txt" afterPath="$PROJECT_DIR$/librairies/html2pdf2/langues/da.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/langues/de.txt" afterPath="$PROJECT_DIR$/librairies/html2pdf2/langues/de.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/langues/en.txt" afterPath="$PROJECT_DIR$/librairies/html2pdf2/langues/en.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/langues/es.txt" afterPath="$PROJECT_DIR$/librairies/html2pdf2/langues/es.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/langues/fr.txt" afterPath="$PROJECT_DIR$/librairies/html2pdf2/langues/fr.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/langues/it.txt" afterPath="$PROJECT_DIR$/librairies/html2pdf2/langues/it.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/langues/nl.txt" afterPath="$PROJECT_DIR$/librairies/html2pdf2/langues/nl.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/langues/pt.txt" afterPath="$PROJECT_DIR$/librairies/html2pdf2/langues/pt.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/langues/tr.txt" afterPath="$PROJECT_DIR$/librairies/html2pdf2/langues/tr.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/parsingHTML.class.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/parsingHTML.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/qrcode/qrcode.class.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/qrcode/qrcode.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/html2pdf2/styleHTML.class.php" afterPath="$PROJECT_DIR$/librairies/html2pdf2/styleHTML.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/Contacts/AOL.php" afterPath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/Contacts/AOL.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/Contacts/Gmail.Ext.php" afterPath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/Contacts/Gmail.Ext.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/Contacts/Gmail.php" afterPath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/Contacts/Gmail.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/Contacts/Hotmail.php" afterPath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/Contacts/Hotmail.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/Contacts/Plaxo.Ext.php" afterPath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/Contacts/Plaxo.Ext.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/Contacts/Plaxo.php" afterPath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/Contacts/Plaxo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/Contacts/SPContacts.base.php" afterPath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/Contacts/SPContacts.base.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/Contacts/Yahoo.ext.php" afterPath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/Contacts/Yahoo.ext.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/Contacts/Yahoo.php" afterPath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/Contacts/Yahoo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/ContactsHelper.php" afterPath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/ContactsHelper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/Interfaces.php" afterPath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/Interfaces.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/SPCommon.php" afterPath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/SPCommon.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/UserSettings.php" afterPath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/UserSettings.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/WebClients/GoogleLoginClient.php" afterPath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/WebClients/GoogleLoginClient.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/WebClients/SPHTTPClient.php" afterPath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/WebClients/SPHTTPClient.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/WebClients/SPHTTPSession.php" afterPath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/WebClients/SPHTTPSession.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/WebClients/SPOAuthClient.php" afterPath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/WebClients/SPOAuthClient.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/init.php" afterPath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/init.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/settings.php" afterPath="$PROJECT_DIR$/librairies/importContact/Svetlozar.NET/settings.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/benoit.php" afterPath="$PROJECT_DIR$/librairies/importContact/benoit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/example.doc.html" afterPath="$PROJECT_DIR$/librairies/importContact/example.doc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/example/contacts.done.php" afterPath="$PROJECT_DIR$/librairies/importContact/example/contacts.done.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/example/contacts.import.php" afterPath="$PROJECT_DIR$/librairies/importContact/example/contacts.import.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/example/contacts.invite.php" afterPath="$PROJECT_DIR$/librairies/importContact/example/contacts.invite.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/example/contacts.main.php" afterPath="$PROJECT_DIR$/librairies/importContact/example/contacts.main.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/example/contacts.page.php" afterPath="$PROJECT_DIR$/librairies/importContact/example/contacts.page.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/example/external.page.php" afterPath="$PROJECT_DIR$/librairies/importContact/example/external.page.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/external.php" afterPath="$PROJECT_DIR$/librairies/importContact/external.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/extra.doc.txt" afterPath="$PROJECT_DIR$/librairies/importContact/extra.doc.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/index.php" afterPath="$PROJECT_DIR$/librairies/importContact/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/importContact/style.css" afterPath="$PROJECT_DIR$/librairies/importContact/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/logging.class.php" afterPath="$PROJECT_DIR$/librairies/logging.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/mime.class.php" afterPath="$PROJECT_DIR$/librairies/mime.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/photos.class.php" afterPath="$PROJECT_DIR$/librairies/photos.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/securemail.class.php" afterPath="$PROJECT_DIR$/librairies/securemail.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/smtp.class.php" afterPath="$PROJECT_DIR$/librairies/smtp.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/tnmp.class.php" afterPath="$PROJECT_DIR$/librairies/tnmp.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librairies/upload.class.php" afterPath="$PROJECT_DIR$/librairies/upload.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/.gitignore" afterPath="$PROJECT_DIR$/log/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nbproject/private/private.properties" afterPath="$PROJECT_DIR$/nbproject/private/private.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nbproject/private/private.xml" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nbproject/project.properties" afterPath="$PROJECT_DIR$/nbproject/project.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nbproject/project.xml" afterPath="$PROJECT_DIR$/nbproject/project.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/.gitignore" afterPath="$PROJECT_DIR$/protected/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/ckeditor.pack" afterPath="$PROJECT_DIR$/public/admin/ckeditor/ckeditor.pack" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/ckeditor.php" afterPath="$PROJECT_DIR$/public/admin/ckeditor/ckeditor.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/ckeditor_php4.php" afterPath="$PROJECT_DIR$/public/admin/ckeditor/ckeditor_php4.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/ckeditor_php5.php" afterPath="$PROJECT_DIR$/public/admin/ckeditor/ckeditor_php5.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/contents.css" afterPath="$PROJECT_DIR$/public/admin/ckeditor/contents.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/lang/_translationstatus.txt" afterPath="$PROJECT_DIR$/public/admin/ckeditor/lang/_translationstatus.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/PGRFileManager.php" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/PGRFileManager.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/PGRThumb/myconfig.php" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/PGRThumb/myconfig.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/PGRThumb/pgrthumb.php" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/PGRThumb/pgrthumb.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/PGRThumb/php/Cache.php" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/PGRThumb/php/Cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/PGRThumb/php/Config.php" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/PGRThumb/php/Config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/PGRThumb/php/Image.php" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/PGRThumb/php/Image.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/PGRThumb/php/Image/GD.php" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/PGRThumb/php/Image/GD.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/PGRThumb/php/Image/ImageMagick.php" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/PGRThumb/php/Image/ImageMagick.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/PGRThumb/php/UrlThumb.php" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/PGRThumb/php/UrlThumb.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/PGRThumb/php/Utils.php" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/PGRThumb/php/Utils.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/SWFUpload v2.2.0.1 Core/Core Changelog.txt" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/SWFUpload v2.2.0.1 Core/Core Changelog.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/SWFUpload v2.2.0.1 Core/Documentation/index.html" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/SWFUpload v2.2.0.1 Core/Documentation/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/SWFUpload v2.2.0.1 Core/Flash/ExternalCall.as" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/SWFUpload v2.2.0.1 Core/Flash/ExternalCall.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/SWFUpload v2.2.0.1 Core/Flash/FileItem.as" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/SWFUpload v2.2.0.1 Core/Flash/FileItem.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/SWFUpload v2.2.0.1 Core/Flash/SWFUpload v2.as3proj" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/SWFUpload v2.2.0.1 Core/Flash/SWFUpload v2.as3proj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/SWFUpload v2.2.0.1 Core/Flash/SWFUpload.as" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/SWFUpload v2.2.0.1 Core/Flash/SWFUpload.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/SWFUpload v2.2.0.1 Core/Flash/obj/SWFUpload-v2Config.old" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/SWFUpload v2.2.0.1 Core/Flash/obj/SWFUpload-v2Config.old" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/SWFUpload v2.2.0.1 Core/plugins/SWFObject License.txt" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/SWFUpload v2.2.0.1 Core/plugins/SWFObject License.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/SWFUpload v2.2.0.1 Core/swfupload license.txt" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/SWFUpload v2.2.0.1 Core/swfupload license.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/css/PGRFileManager.css" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/css/PGRFileManager.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/css/fancybox/jquery.fancybox.css" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/css/fancybox/jquery.fancybox.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/css/jquery.treeview.css" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/css/jquery.treeview.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/css/le-frog/jquery-ui-1.7.2.custom.css" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/css/le-frog/jquery-ui-1.7.2.custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/css/sunny/jquery-ui-1.7.2.custom.css" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/css/sunny/jquery-ui-1.7.2.custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/css/sunny2/jquery-ui-1.8.1.custom.css" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/css/sunny2/jquery-ui-1.8.1.custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/css/ui-lightness/jquery-ui-1.7.2.custom.css" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/css/ui-lightness/jquery-ui-1.7.2.custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/license.txt" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/license.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/myconfig.php" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/myconfig.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/mypath.php" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/mypath.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/php/auth.php" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/php/auth.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/php/ckedit.php" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/php/ckedit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/php/config.php" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/php/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/php/download.php" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/php/download.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/php/files.php" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/php/files.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/php/folders.php" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/php/folders.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/php/init.php" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/php/init.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/php/json.php" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/php/json.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/php/login.php" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/php/login.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/php/upload.php" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/php/upload.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/php/utils.php" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/pgrfilemanager/php/utils.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/scayt/dialogs/toolbar.css" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/scayt/dialogs/toolbar.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/uicolor/yui/assets/yui.css" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/uicolor/yui/assets/yui.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/wsc/dialogs/ciframe.html" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/wsc/dialogs/ciframe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/plugins/wsc/dialogs/wsc.css" afterPath="$PROJECT_DIR$/public/admin/ckeditor/plugins/wsc/dialogs/wsc.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/skins/kama/dialog.css" afterPath="$PROJECT_DIR$/public/admin/ckeditor/skins/kama/dialog.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/skins/kama/editor.css" afterPath="$PROJECT_DIR$/public/admin/ckeditor/skins/kama/editor.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/skins/kama/templates.css" afterPath="$PROJECT_DIR$/public/admin/ckeditor/skins/kama/templates.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/skins/office2003/dialog.css" afterPath="$PROJECT_DIR$/public/admin/ckeditor/skins/office2003/dialog.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/skins/office2003/editor.css" afterPath="$PROJECT_DIR$/public/admin/ckeditor/skins/office2003/editor.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/skins/office2003/templates.css" afterPath="$PROJECT_DIR$/public/admin/ckeditor/skins/office2003/templates.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/skins/v2/dialog.css" afterPath="$PROJECT_DIR$/public/admin/ckeditor/skins/v2/dialog.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/skins/v2/editor.css" afterPath="$PROJECT_DIR$/public/admin/ckeditor/skins/v2/editor.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/ckeditor/skins/v2/templates.css" afterPath="$PROJECT_DIR$/public/admin/ckeditor/skins/v2/templates.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/admin/index.php" afterPath="$PROJECT_DIR$/public/admin/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/images/admin/index.php" afterPath="$PROJECT_DIR$/public/default/images/admin/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/images/default/index.php" afterPath="$PROJECT_DIR$/public/default/images/default/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/images/index.php" afterPath="$PROJECT_DIR$/public/default/images/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/index.php" afterPath="$PROJECT_DIR$/public/default/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/scripts/admin/colorbox/colorbox.css" afterPath="$PROJECT_DIR$/public/default/scripts/admin/colorbox/colorbox.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/scripts/admin/datepicker/jquery-ui-1.7.2.custom.css" afterPath="$PROJECT_DIR$/public/default/scripts/admin/datepicker/jquery-ui-1.7.2.custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/scripts/admin/etudes/edit.js" afterPath="$PROJECT_DIR$/public/default/scripts/admin/etudes/edit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/scripts/admin/etudes/typeDocument.js" afterPath="$PROJECT_DIR$/public/default/scripts/admin/etudes/typeDocument.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/scripts/admin/freeow/freeow.css" afterPath="$PROJECT_DIR$/public/default/scripts/admin/freeow/freeow.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/scripts/admin/functions.js" afterPath="$PROJECT_DIR$/public/default/scripts/admin/functions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/scripts/admin/index.php" afterPath="$PROJECT_DIR$/public/default/scripts/admin/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/scripts/admin/jquery/jquery.checkbox.radio.js" afterPath="$PROJECT_DIR$/public/default/scripts/admin/jquery/jquery.checkbox.radio.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/scripts/admin/jquery/jquery.cookie.js" afterPath="$PROJECT_DIR$/public/default/scripts/admin/jquery/jquery.cookie.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/scripts/admin/jquery/jquery.json.js" afterPath="$PROJECT_DIR$/public/default/scripts/admin/jquery/jquery.json.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/scripts/admin/tablesorter/style.css" afterPath="$PROJECT_DIR$/public/default/scripts/admin/tablesorter/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/scripts/admin/treeview/jquery.treeview.css" afterPath="$PROJECT_DIR$/public/default/scripts/admin/treeview/jquery.treeview.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/scripts/default/colorbox/colorbox.css" afterPath="$PROJECT_DIR$/public/default/scripts/default/colorbox/colorbox.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/scripts/default/index.php" afterPath="$PROJECT_DIR$/public/default/scripts/default/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/scripts/index.php" afterPath="$PROJECT_DIR$/public/default/scripts/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/styles/admin/blitzer/jquery-ui-1.10.4.custom.min.css" afterPath="$PROJECT_DIR$/public/default/styles/admin/blitzer/jquery-ui-1.10.4.custom.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/styles/admin/fonts/helveticaneue-extended-webfont.svg" afterPath="$PROJECT_DIR$/public/default/styles/admin/fonts/helveticaneue-extended-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/styles/admin/global.css" afterPath="$PROJECT_DIR$/public/default/styles/admin/global.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/styles/admin/index.php" afterPath="$PROJECT_DIR$/public/default/styles/admin/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/styles/admin/jquery-ui-1.7.2.custom.css" afterPath="$PROJECT_DIR$/public/default/styles/admin/jquery-ui-1.7.2.custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/styles/admin/jquery.dataTables.css" afterPath="$PROJECT_DIR$/public/default/styles/admin/jquery.dataTables.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/styles/admin/main.css" afterPath="$PROJECT_DIR$/public/default/styles/admin/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/styles/admin/style.css" afterPath="$PROJECT_DIR$/public/default/styles/admin/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/styles/admin/typeDocuments/fonts.css" afterPath="$PROJECT_DIR$/public/default/styles/admin/typeDocuments/fonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/styles/admin/typeDocuments/style-new-pages.css" afterPath="$PROJECT_DIR$/public/default/styles/admin/typeDocuments/style-new-pages.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/styles/default/index.php" afterPath="$PROJECT_DIR$/public/default/styles/default/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/styles/default/izicom.css" afterPath="$PROJECT_DIR$/public/default/styles/default/izicom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/fichiers/index.php" afterPath="$PROJECT_DIR$/public/default/var/fichiers/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/images/index.php" afterPath="$PROJECT_DIR$/public/default/var/images/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/images/marques/index.php" afterPath="$PROJECT_DIR$/public/default/var/images/marques/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/images/produits/index.php" afterPath="$PROJECT_DIR$/public/default/var/images/produits/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/index.php" afterPath="$PROJECT_DIR$/public/default/var/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/tmp/index.php" afterPath="$PROJECT_DIR$/public/default/var/tmp/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1449845877-exportcdm81586.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1449845877-exportcdm81586.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1449845896-exportcdm81586.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1449845896-exportcdm81586.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1449845906-exportcdm81586.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1449845906-exportcdm81586.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1449854959-exportcdm28351.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1449854959-exportcdm28351.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1449854971-exportcdm28351.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1449854971-exportcdm28351.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1449854976-exportcdm28351.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1449854976-exportcdm28351.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1449855215-exportcdm28351.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1449855215-exportcdm28351.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450278930-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450278930-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450279675-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450279675-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450279701-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450279701-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450279781-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450279781-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450279860-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450279860-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450279881-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450279881-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450280010-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450280010-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450280089-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450280089-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450280102-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450280102-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450280252-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450280252-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450280290-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450280290-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450280355-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450280355-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450280552-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450280552-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450280635-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450280635-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450281298-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450281298-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450281366-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450281366-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450281655-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450281655-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450281729-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450281729-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450281777-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450281777-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450282564-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450282564-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450282597-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450282597-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450282616-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450282616-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450282648-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450282648-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450282707-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450282707-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450282726-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450282726-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450283193-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450283193-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450283409-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450283409-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450283517-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450283517-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450283913-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450283913-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450283956-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450283956-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450284045-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450284045-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450284541-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450284541-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450284932-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450284932-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450286891-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450286891-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450287208-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450287208-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450287803-1450283517-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450287803-1450283517-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450287872-1450283517-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450287872-1450283517-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/1450342280-1450283517-exportcdm24030.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/1450342280-1450283517-exportcdm24030.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/exportcdm28351.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/exportcdm28351.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/exportcdm37290.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/exportcdm37290.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/exportcdm81586.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/exportcdm81586.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/icisls-acces-codes-planteur-1522015.csv" afterPath="$PROJECT_DIR$/public/default/var/uploads/icisls-acces-codes-planteur-1522015.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/default/var/uploads/index.php" afterPath="$PROJECT_DIR$/public/default/var/uploads/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/route.php" afterPath="$PROJECT_DIR$/route.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/.gitignore" afterPath="$PROJECT_DIR$/tmp/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/default/views/header.php" afterPath="$PROJECT_DIR$/apps/default/views/header.php" />
     </list>
     <ignored path="oge.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -795,7 +32,88 @@
     <favorites_list name="oge" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="bootstrap.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/default/bootstrap.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.811321">
+              <caret line="51" column="34" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/default/styles/default/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.818182">
+              <caret line="128" column="1" selection-start-line="128" selection-start-column="1" selection-end-line="128" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/default/styles/default/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.2">
+              <caret line="467" column="0" selection-start-line="467" selection-start-column="0" selection-end-line="467" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/default/views/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.1923075">
+              <caret line="11" column="77" selection-start-line="11" selection-start-column="77" selection-end-line="11" selection-end-column="77" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="root.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/default/controllers/root.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.056604">
+              <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apps/default/views/root/home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.346395">
+              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/default/views/root/contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.9230769">
+              <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/default/views/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.8">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -808,6 +126,19 @@
         <option value="$PROJECT_DIR$/public/default/styles/admin/style.css" />
         <option value="$PROJECT_DIR$/public/default/styles/admin/main.css" />
         <option value="$PROJECT_DIR$/public/default/styles/admin/global.css" />
+        <option value="$PROJECT_DIR$/public/default/scripts/default/jquery/jquery-easing.min.js" />
+        <option value="$PROJECT_DIR$/public/default/scripts/default/function.js" />
+        <option value="$PROJECT_DIR$/public/default/styles/default/font_google.min.css" />
+        <option value="$PROJECT_DIR$/public/default/styles/default/font_google.min2.css" />
+        <option value="$PROJECT_DIR$/apps/default/views/head.php" />
+        <option value="$PROJECT_DIR$/apps/default/bootstrap.php" />
+        <option value="$PROJECT_DIR$/public/default/styles/default/bootstrap.css" />
+        <option value="$PROJECT_DIR$/apps/default/views/footer.php" />
+        <option value="$PROJECT_DIR$/apps/default/views/root/contact.php" />
+        <option value="$PROJECT_DIR$/apps/default/controllers/root.php" />
+        <option value="$PROJECT_DIR$/apps/default/views/header.php" />
+        <option value="$PROJECT_DIR$/public/default/styles/default/styles.css" />
+        <option value="$PROJECT_DIR$/apps/default/views/root/home.php" />
       </list>
     </option>
   </component>
@@ -848,6 +179,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -905,6 +237,10 @@
               <option name="myItemId" value="styles" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -927,10 +263,6 @@
               <option name="myItemId" value="styles" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -976,7 +308,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
+              <option name="myItemId" value="default" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1002,7 +334,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
+              <option name="myItemId" value="default" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1037,22 +369,8 @@
               <option name="myItemId" value="apps" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="oge" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oge" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
+              <option name="myItemId" value="default" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1070,7 +388,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
+              <option name="myItemId" value="default" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1092,7 +410,59 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="root" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="errors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1100,16 +470,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\oge\apps\default\views\errors" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -1142,6 +532,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="234a2a10-07f2-41aa-befa-b96a0917b0d7" name="Default" comment="" />
@@ -1153,25 +546,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32658958" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -1251,13 +644,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/admin/bootstrap.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.893617">
-          <caret line="104" column="9" selection-start-line="104" selection-start-column="9" selection-end-line="104" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/default/styles/admin/global.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3197492">
@@ -1278,6 +664,145 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.18652038">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/default/scripts/default/ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/admin/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.384615">
+          <caret line="104" column="8" selection-start-line="104" selection-start-column="8" selection-end-line="104" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/default/scripts/default/jquery/jquery-easing.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/default/scripts/default/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/default/controllers/ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37304077">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/default/views/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.5286416">
+          <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/default/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.811321">
+          <caret line="51" column="34" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/default/views/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.8">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/admin/controllers/root.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.274295">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1453978454860" expanded="true" signature="10358:10525" placeholder="SELECT * FRO... info_documents" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/default/controllers/root.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.056604">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/admin/views/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.5188087">
+          <caret line="57" column="72" selection-start-line="57" selection-start-column="72" selection-end-line="57" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/default/views/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.1923075">
+          <caret line="11" column="77" selection-start-line="11" selection-start-column="77" selection-end-line="11" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/default/views/root/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.9230769">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/default/styles/default/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.818182">
+          <caret line="128" column="1" selection-start-line="128" selection-start-column="1" selection-end-line="128" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/default/views/errors/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.053291537">
+          <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/default/styles/default/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.2">
+          <caret line="467" column="0" selection-start-line="467" selection-start-column="0" selection-end-line="467" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/default/views/root/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.346395">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
           <folding />
         </state>
       </provider>

@@ -49,11 +49,25 @@ class bootstrap extends Controller
 		}
 		
 		// Chargement des fichiers CSS
+		$this->loadCss('default/bootstrap');
+		$this->loadCss('default/styles');
+		$this->loadCss('default/font-awesome.min');
+		$this->loadCss('default/font_google.min');
+		$this->loadCss('default/font_google2.min');
+
 		$this->loadCss('../scripts/default/colorbox/colorbox');
-		$this->loadCss('default/izicom');
+		//$this->loadCss('default/izicom');
 		
 		// Chargement des fichier JS
-		$this->loadJs('default/jquery/jquery-1.5.2.min');
+		$this->loadJs('default/jquery/jquery');
+		$this->loadJs('default/bootstrap.min');
+		$this->loadJs('default/jquery/jquery-easing.min');
+		$this->loadJs('default/classie');
+		$this->loadJs('default/jquery/cbpAnimatedHeader.min');
+		$this->loadJs('default/jquery/jqBootstrapValidation');
+		$this->loadJs('default/contact_me');
+		$this->loadJs('default/function');
+
 		$this->loadJs('default/colorbox/jquery.colorbox-min');
 		$this->loadJs('default/main');
 		$this->loadJs('default/ajax');
@@ -91,7 +105,7 @@ class bootstrap extends Controller
 		// On check les params pour voir si on a un partenaire
 		if(count($params) > 0)
 		{
-			// Variable pour savoir s'il a trouvé un p
+			// Variable pour savoir s'il a trouvï¿½ un p
 			$getta = false;
 			
 			$i = 0;			
@@ -100,7 +114,7 @@ class bootstrap extends Controller
 				// Si on detecte un p en params
 				if($p == 'p')
 				{
-					// Youpi il a trouvé
+					// Youpi il a trouvï¿½
 					$getta = true;
 					
 					$indexPart = $i + 1;
@@ -160,7 +174,7 @@ class bootstrap extends Controller
 				$i++;
 			}
 			
-			// Si il a rien trouvé on regarde si on a un cookie et pas de session
+			// Si il a rien trouvï¿½ on regarde si on a un cookie et pas de session
 			if(!isset($_SESSION['partenaire']['id_partenaire']) && isset($_COOKIE['izicom_partenaire']) && !$getta)
 			{
 				// On regarde si on trouve toujours un partenaire
