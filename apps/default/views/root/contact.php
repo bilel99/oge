@@ -1,10 +1,12 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
 <!-- Contact Section -->
 <section id="contact">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2>Contact Me</h2>
-                <hr class="star-primary">
+                <h2>Nous contacter</h2>
+                <hr class="star-contact">
             </div>
         </div>
         <div class="row">
