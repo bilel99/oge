@@ -741,7 +741,7 @@ table td .day{ position:absolute; color:#8C8C8C; bottom:-40px; right:5px; font-w
 table td .events{ position:relative; width:79px; height:0px; margin:-39px 0px 0px; padding:0px;}
 table td .events li{ width:10px; height:10px; float:left; background:#F90505; -moz-border-radius:10px; -webkit-border-radius:10px; -khtml-border-radius:10px; border-radius:10px 10px 10px 10px; margin-left:6px; overflow:hidden; text-indent:-3000px;}
 table td:hover .events{ position:absolute; left:582px; top:66px; width:442px; list-style:none; margin:0px; padding:11px 0px 0px;}
-table td:hover .events li{ height:70px; line-height:40px; font-weight:bold; border-bottom:1px solid #D6D6D6; padding-left:41px; text-indent:0; background:none; width:500px;}
+table td:hover .events li{ height:70px; margin-top: 400px; margin-left:-250px; line-height:40px; font-weight:bold; border-bottom:1px solid #D6D6D6; padding-left:41px; text-indent:0; background:none; width:500px;}
 table td:hover .events li:first-child{ border-top:1px solid #D6D6D6;}
 table td .daytitle{ display:none;}
 table td:hover .daytitle{ position:absolute; left:582px; top:21px; width:442px; list-style:none; margin:0px 0px 0px 16px; padding:0px; color:#D90000; font-size:41px; display:block; font-weight:bold;}

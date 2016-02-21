@@ -78,7 +78,7 @@
                     <div class="clear"></div>
                     <?php $dates = current($dates); ?>
                     <?php foreach($dates as $m=>$days): ?>
-                        <div class="month" id="month<?= $m; ?>">
+                        <div class="month relative" id="month<?= $m; ?>">
                             <table style="font-size: 18px;" class="table table-responsive table-bordered ">
                                 <thead>
                                     <tr>
@@ -92,14 +92,25 @@
                                 <tbody>
                                     <tr>
                                         <?php $end = end($days); foreach($days as $d=>$w): ?>
+                                            <?php $time = strtotime("$year-$m-$d"); ?>
                                             <?php if($d == 1 && $w != 1): ?>
                                                 <td colspan="<?= $w - 1; ?>" class="padding"></td>
                                             <?php endif; ?>
 
-                                            <td>
+                                            <td<?php if($time == strtotime(date('Y-m-d'))): ?> class="today" <?php endif; ?>>
                                                 <div class="relative">
                                                     <div class="day"><?= $d ?></div>
                                                 </div>
+                                                <div class="daytitle">
+                                                    <?= $date->days[$w-1].' '.$d.' '.$date->months[$m-1]; ?>
+                                                </div>
+                                                <ul class="events">
+                                                    <?php if(isset($this->r[$time])):
+                                                        foreach($this->r[$time] as $e): ?>
+                                                            <li><?= $e; ?></li>
+                                                        <?php endforeach;
+                                                    endif; ?>
+                                                </ul>
                                             </td>
                                             <?php if($w == 7): ?>
                                     </tr>
@@ -115,6 +126,7 @@
 
                         </div>
                     <?php endforeach; ?>
+                    <?php print_r($this->r) ?>
                 </div>
 
             </div>
