@@ -137,6 +137,12 @@ class etudes extends etudes_crud
 
 
 
+	function eventDateCalendar($year)
+	{
+		$sql = 'SELECT * FROM `etudes` WHERE YEAR(date_debut)='.$year;
+		$result = $this->bdd->query($sql);
+		return ($this->bdd->fetch_array($result,0,0)>0);
+	}
 
 
 

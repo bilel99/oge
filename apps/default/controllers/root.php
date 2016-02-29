@@ -13,6 +13,16 @@ class rootController extends bootstrap
 	
 	function _default()
 	{
+		// récupération etudes date debut et date fin avec dashboard = 2 pour le calendrier
+		$etudes = $this->loadData('etudes');
+		$allEtudes = $etudes->select();
+
+		$this->r = array();
+		// Ce que je veux pour mon calendrier $r[TIMESTAMP][id] = nom_interne
+		foreach($allEtudes as $id=>$e){
+			$this->r[strtotime($e['date_debut'])][$e['id_etudes']] = $e['nom_interne'];
+		}
+
 		// Appel de la page home
 		$this->setView('../root/home');
 	}
